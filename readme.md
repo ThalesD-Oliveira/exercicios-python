@@ -1,4 +1,4 @@
-# Lista de exercícios resolvidos em Python🐍 <br> by Professor Gustavo Guanabara
+# Lista de exercícios resolvidos em Python🐍
 ![](source/images/curso-python.png)
 
 Este é um curso que foi disponibilizado pelos apoiadores gafanhotos e gratuito aos demais alunos, composto por aulas explicativas gravadas e listas de exercícios com resolução tanto no site do curso em vídeo, quanto no canal do curso em vídeo no YouTube.
